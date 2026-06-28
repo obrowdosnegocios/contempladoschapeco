@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://contempladoschapeco.com.br/sitemap.xml
